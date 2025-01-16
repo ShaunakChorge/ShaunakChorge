@@ -1,3 +1,7 @@
+<!--- 
+![header_](https://github.com/user-attachments/assets/29ea54e8-2d48-422f-a7b2-c3e5c783a2bd)
+--->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=4000&pause=1000&center=true&vCenter=true&width=850&height=85&lines=Welcome+to+my+GitHub+Profile;Hi!!!+I'm+Shaunak)](https://git.io/typing-svg)
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
